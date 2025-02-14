@@ -1,5 +1,5 @@
 # day_4bootcamp
-i perform data cleaning ,data entering ,data visualization using pivot table and short insight.
+i performed data cleaning ,data entering ,data visualization using pivot table and short insight.
 
 Analysis of the Pivot Tables:
 Total Spending by Gender
