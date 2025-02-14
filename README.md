@@ -7,7 +7,7 @@ Females: $167,882.93
 Males: $155,083.82
 Insight: Females spend more overall than males.
 
-Product Line Preferences by Gender (Total Spending)
+Product Line Preferences by Gender (Total Spending).
 Females spend the most on: Food & Beverages ($33,170.92) and Fashion Accessories ($30,437.40).
 Males spend the most on: Health & Beauty ($30,632.75) and Electronic Accessories ($27,235.51).
 Insight: Males prefer health and electronics, while females favor fashion and food.
